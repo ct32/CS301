@@ -1,7 +1,4 @@
-# CS301 Group 3
-## Project : Character Recognition
 
-This project aims to distinguish the image of the characters from a number plate. We will be using computer vision fundamentals and classification methods to create a program that identifies each character. The data set we will be using is from https://www.kaggle.com/kdnishanth/characterrecognitionfromnumberplate . This data set includes letter from the English alphabet and numbers 0-9. Additionally, there is multiple variations for each character and we will be using Colab to develop our project.  
 #What is the problem that you will be investigating? Why is it interesting?
 The problem that we will be investigating is character recognition. This is an interesting problem to investigate because using computer vision to recognize different letters and strings can be very important in many ways. Detecting vehicle license plates, the text on signage and storefronts, or even attempting to read captcha images all make this a very interesting problem to try to come up with a solution for.
 
